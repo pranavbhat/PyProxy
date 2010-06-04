@@ -1,1 +1,7 @@
-This is test!
+#
+#PyProxy -  A proxy server in Python
+# Autor : Pranav Bhat
+#
+
+PyProxy is a complete proxy server which performs the following tasks.
+<Add more description here>
